@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Project: Travel webpage</title>
+</head>
+<body>
+    <h1>Travel to Brazil </h1>
+    <p>Visit Brazil and make memories you’ll never forget!!</p>
+    <img src="https://images.pexels.com/photos/1020316/pexels-photo-1020316.jpeg" alt="Paisaje de Brasil">
+ width="200">
+</body>
+</html>
